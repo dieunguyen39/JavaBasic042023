@@ -1,4 +1,6 @@
-import ToanTu.OnTap;
+package BaiTap2_3;
+
+import BaiTap2_3.ToanTu.OnTap;
 
 public class BaiTap3 {
     public static void main(String[] args){

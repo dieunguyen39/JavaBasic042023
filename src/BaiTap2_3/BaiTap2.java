@@ -1,4 +1,6 @@
-import ToanTu.Calculator;
+package BaiTap2_3;
+
+import BaiTap2_3.ToanTu.Calculator;
 
 public class BaiTap2 {
     public static void main(String[] args) {

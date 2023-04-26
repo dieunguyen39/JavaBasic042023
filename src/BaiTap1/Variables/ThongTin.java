@@ -1,4 +1,4 @@
-package Variables;
+package BaiTap1.Variables;
 
 public class ThongTin {
     public static int birthday = 1997;

@@ -1,4 +1,4 @@
-package ToanTu;
+package BaiTap2_3.ToanTu;
 
 public class Calculator {
     public int getTong2SoNguyen(int a, int b){

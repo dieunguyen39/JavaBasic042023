@@ -1,4 +1,4 @@
-package ToanTu;
+package BaiTap2_3.ToanTu;
 
 public class OnTap {
     public int diemToan = 9;

@@ -5,20 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fe9af3af-f2f5-45bf-b484-2cade16fbed3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaBasic.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaiTap1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaiTap2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BaiTap3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ToanTu/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ToanTu/OnTap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Variables/SinhVien.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Variables/ThongTin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BaiTap4/BaiTap4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BaiTap1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaiTap1/BaiTap1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BaiTap2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaiTap2_3/BaiTap2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BaiTap3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaiTap2_3/BaiTap3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ToanTu/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaiTap2_3/ToanTu/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ToanTu/OnTap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaiTap2_3/ToanTu/OnTap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Variables/SinhVien.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaiTap1/Variables/SinhVien.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Variables/ThongTin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BaiTap1/Variables/ThongTin.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +53,7 @@
   </component>
   <component name="RunManager">
     <configuration name="BaiTap1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BaiTap1" />
+      <option name="MAIN_CLASS_NAME" value="BaiTap1.Variables.BaiTap1" />
       <module name="JavaBasic" />
       <method v="2">
         <option name="Make" enabled="true" />
